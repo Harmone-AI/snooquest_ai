@@ -48,6 +48,7 @@ outputs
 dataset/**
 !dataset/**/
 !dataset/**/.gitkeep
+!dataset/ip/**
 models
 data
 config.toml
